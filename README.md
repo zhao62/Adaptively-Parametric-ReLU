@@ -6,3 +6,5 @@ Vibration signals under the same health state often have large differences due t
 
 Reference:
 Minghang Zhao, Shisheng Zhong, Xuyun Fu, Baoping Tang, Shaojiang Dong, Michael Pecht, Deep Residual Networks with Adaptively Parametric Rectifier Linear Units for Fault Diagnosis, IEEE Transactions on Industrial Electronics, 2020,  DOI: 10.1109/TIE.2020.2972458 
+
+https://ieeexplore.ieee.org/document/8998530
