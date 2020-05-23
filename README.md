@@ -1,5 +1,5 @@
-# Adaptively-Parametric-ReLU
-A Dynamic ReLU: The adaptively parametric ReLU (APReLU) is an activation function that performs non-identically for input samples. 
+# (A Dynamic ReLU) Adaptively-Parametric-ReLU
+The adaptively parametric ReLU (APReLU) is a dynamic ReLU activation function that performs non-identically for input samples. 
 
 Besides, although the APReLU was originally applied to vibration-based fault diagnosis, it can be applied in other applications, such as image classification. In this code, the APReLU is implemented using TensorFlow 1.0.1 and TFLearn 0.3.2, and applied for image classification.
 
